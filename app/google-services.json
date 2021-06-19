@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470083671531",
+    "project_id": "caffe-house",
+    "storage_bucket": "caffe-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470083671531:android:dba66ff41c3d43147c75ae",
+        "android_client_info": {
+          "package_name": "com.example.caffe_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470083671531-adfvvd1jgvq9g3chbt74ij3jv0ckm3ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caffe_house",
+            "certificate_hash": "022974b966d7669a04b74b7297e276f24a9d0a9a"
+          }
+        },
+        {
+          "client_id": "470083671531-uileb7tnd6qm7dl18f6g0e0imrqa84aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QGfNbYgB8HYnsf_fQEV-mMi1YHig5Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470083671531-uileb7tnd6qm7dl18f6g0e0imrqa84aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
